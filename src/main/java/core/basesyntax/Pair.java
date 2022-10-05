@@ -1,10 +1,7 @@
 package core.basesyntax;
 
-import javax.lang.model.element.Name;
-import java.util.Comparator;
-
 public class Pair implements Comparable {
-    private String _name;
+    private final String _name;
     private int _ammount;
 
     public Pair(String name, int ammount) {
