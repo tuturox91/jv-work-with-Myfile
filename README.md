@@ -1,4 +1,4 @@
-# jv-work-with-file
+# jv-work-with-file   NEED REWRITE!
 
 Implement method `getStatistic(String fromFileName, String toFileName)` 
 which will return some data from market after working day. 
